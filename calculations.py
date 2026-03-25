@@ -1,12 +1,15 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-masses = []
 
-# Value for the gravitational constant:
+masses = []
+# Scaled value for the gravitational constant:
 G = 1.0
 # Increment for dt (change in time):
 dt = 0.01
+
+
+# Finding the acceleration by applying the distance between two masses:
 
 def acceleration_calculation(positions, masses):
     n = len(masses)
