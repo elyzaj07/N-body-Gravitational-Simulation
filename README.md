@@ -23,3 +23,7 @@ This is extended to compute acceleration and update motion over time.
 - Visualize stabilization of energy in N-body system
 - Body merging if distance is miniscule enough
 - 3D simulations
+
+## To run simulation:
+pip install numpy matplotlib
+python main_simulation.py
