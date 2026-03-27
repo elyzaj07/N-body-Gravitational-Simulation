@@ -19,11 +19,11 @@ This is extended to compute acceleration and update motion over time.
 - NumPy
 - Matplotlib
 
-## Future features:
+## Future Features:
 - Visualize stabilization of energy in N-body system
 - Body merging if distance is miniscule enough
 - 3D simulations
 
-## To run simulation:
+## To Run Simulation:
 - pip install numpy matplotlib
 - python main_simulation.py
