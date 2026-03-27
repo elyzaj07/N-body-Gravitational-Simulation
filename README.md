@@ -25,5 +25,5 @@ This is extended to compute acceleration and update motion over time.
 - 3D simulations
 
 ## To run simulation:
-pip install numpy matplotlib
-python main_simulation.py
+- pip install numpy matplotlib
+- python main_simulation.py
