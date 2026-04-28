@@ -8,6 +8,8 @@ A physics simulation of gravitational interactions between multiple bodies using
 - Real-time animation
 - Orbit trajectory visualization
 - Implemented pause feature
+- Turn on/off body merging feature
+- Total energy graph (potential energy + kinetic energy) as a function of time
 
 ## Physics:
 Each body interacts with every other body using:
@@ -20,8 +22,6 @@ This is extended to compute acceleration and update motion over time.
 - Matplotlib
 
 ## Future Features:
-- Visualize stabilization of energy in N-body system
-- Body merging if distance is miniscule enough
 - 3D simulations
 
 ## To Run Simulation:
