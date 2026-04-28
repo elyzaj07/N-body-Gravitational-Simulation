@@ -7,8 +7,8 @@ A physics simulation of gravitational interactions between multiple bodies using
 - Simulates N-body gravitational systems
 - Real-time animation
 - Orbit trajectory visualization
-- Implemented pause feature
-- Turn on/off body merging feature
+- Implemented pause feature (press spacebar)
+- Turn on/off body merging feature (press m)
 - Total energy graph (potential energy + kinetic energy) as a function of time
 
 ## Physics:
@@ -28,3 +28,5 @@ This is extended to compute acceleration and update motion over time.
 ## To Run Simulation:
 - pip install numpy matplotlib
 - python main_simulation.py
+- Press "m" key to turn on/off merging
+- Press spacebar to pause/unpause
