@@ -24,6 +24,8 @@ This is extended to compute acceleration and update motion over time.
 
 ## Future Features:
 - 3D simulations
+- Tidal fields
+- Energy loss in stars
 
 ## To Run Simulation:
 - pip install numpy matplotlib
