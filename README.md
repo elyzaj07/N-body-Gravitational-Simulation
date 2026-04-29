@@ -16,6 +16,9 @@ Each body interacts with every other body using:
 $F = {G {m_1 m_2} \over {r²}}$
 \
 This is extended to compute acceleration and update motion over time.
+To calculate the total energy, the Virial Theorem is used:
+$2KE = PE$
+This demonstrates conservation of energy when body merging is off.
 
 ## Tech Stack Used:
 - Python
